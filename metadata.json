@@ -1,0 +1,6 @@
+{
+  "name": "Next Gen Developers Zambia",
+  "description": "Official community and innovation app for Next Gen Developers Zambia: Think. Create. Solve. Explore real-world projects, mission objectives, community challenges, and member pass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
